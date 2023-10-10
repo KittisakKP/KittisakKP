@@ -4,8 +4,8 @@ I'm Benz. I'm working as Front-End Developer `@Jobcan Thailand`
 ## Work Statistics
 <a href="https://github.com/benzkittisak/benzkittisak/">
 
-![](https://raw.githubusercontent.com/benzkittisak/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/benzkittisak/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/KittisakKP/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/KittisakKP/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
