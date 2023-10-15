@@ -1,5 +1,5 @@
 ## Hi there !! 👋
-I'm Benz. I'm working as Front-End Developer `@Jobcan Thailand`
+I'm Benz. I'm currently working on Front-End Developer `@Jobcan Thailand`
 
 ## Work Statistics
 <a href="https://github.com/benzkittisak/benzkittisak/">
